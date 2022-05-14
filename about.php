@@ -42,7 +42,7 @@
         </div>
     </nav>
 
-    <div class="tm-hero d-flex justify-content-center align-items-center" data-parallax="scroll" data-image-src="img/frontpage1.jpg"></div>
+    <div class="tm-hero d-flex justify-content-center align-items-center" data-parallax="scroll" data-image-src="img/about1.jpg"></div>
 
     <div class="container-fluid tm-mt-60">
         <div class="row mb-4">
@@ -126,7 +126,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-md-7 col-12 px-5 mb-3">
-                    Copyright 2022 Imahe Marinduque. All rights reserved.
+                    Copyright 2022 Imahe Marinduke. All rights reserved.
                 </div>
                 <div class="col-lg-4 col-md-5 col-12 px-5 text-right">
                     Designed by <a href="https://templatemo.com" class="tm-text-gray" rel="sponsored" target="_parent">Imahe Marinduke Organization</a>

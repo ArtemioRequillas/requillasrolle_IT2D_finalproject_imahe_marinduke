@@ -43,16 +43,16 @@
         </div>
     </nav>
 
-    <div class="tm-hero d-flex justify-content-center align-items-center" data-parallax="scroll" data-image-src="img/frontpage1.jpg"></div>
+    <div class="tm-hero d-flex justify-content-center align-items-center" data-parallax="scroll" data-image-src="img/contact.jpg"></div>
 
     <div class="container-fluid tm-mt-60">
         <div class="row tm-mb-74 tm-people-row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-5">
-                <img src="img/people-1.jpg" alt="Image" class="mb-4 img-fluid">
-                <h2 class="tm-text-primary mb-4">Ryan White</h2>
-                <h3 class="tm-text-secondary h5 mb-4">Chief Executive Officer</h3>
+                <img src="img/man.jpg" alt="Image" class="mb-4 img-fluid">
+                <h2 class="tm-text-primary mb-4">Name</h2>
+                <h3 class="tm-text-secondary h5 mb-4">Position</h3>
                 <p class="mb-4">
-                    Mauris ante tellus, feugiat nec metus non, bibendum semper velit. Praesent laoreet urna id tristique fermentum. Morbi venenatis dui quis diam mollis pellentesque.
+                    (details here!)
                 </p>
                 <ul class="tm-social pl-0 mb-0">
                     <li><a href="https://facebook.com"><i class="fab fa-facebook"></i></a></li>
@@ -61,11 +61,11 @@
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-5">
-                <img src="img/people-2.jpg" alt="Image" class="mb-4 img-fluid">
-                <h2 class="tm-text-primary mb-4">Catherine Pinky</h2>
-                <h3 class="tm-text-secondary h5 mb-4">Chief Marketing Officer</h3>
+                <img src="img/woman.jpg" alt="Image" class="mb-4 img-fluid">
+                <h2 class="tm-text-primary mb-4">Name</h2>
+                <h3 class="tm-text-secondary h5 mb-4">Position</h3>
                 <p class="mb-4">
-                    Sed faucibus nec velit finibus accumsan. Sed varius augue et leo pharetra, in varius lacus eleifend. Quisque ut eleifend lacus.
+                    (details here!)
                 </p>
                 <ul class="tm-social pl-0 mb-0">
                     <li><a href="https://facebook.com"><i class="fab fa-facebook"></i></a></li>
@@ -74,11 +74,11 @@
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-5">
-                <img src="img/people-3.jpg" alt="Image" class="mb-4 img-fluid">
-                <h2 class="tm-text-primary mb-4">Johnny Brief</h2>
-                <h3 class="tm-text-secondary h5 mb-4">Accounting Executive</h3>
+                <img src="img/woman.jpg" alt="Image" class="mb-4 img-fluid">
+                <h2 class="tm-text-primary mb-4">Name</h2>
+                <h3 class="tm-text-secondary h5 mb-4">Position</h3>
                 <p class="mb-4">
-                    Sed faucibus nec velit finibus accumsan. Sed varius augue et leo pharetra, in varius lacus eleifend. Quisque ut eleifend lacus.
+                    (details here!)
                 </p>
                 <ul class="tm-social pl-0 mb-0">
                     <li><a href="https://facebook.com"><i class="fab fa-facebook"></i></a></li>
@@ -87,11 +87,11 @@
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-5">
-                <img src="img/people-4.jpg" alt="Image" class="mb-4 img-fluid">
-                <h2 class="tm-text-primary mb-4">George Nelson</h2>
-                <h3 class="tm-text-secondary h5 mb-4">Creative Art Director #C69</h3>
+                <img src="img/man.jpg" alt="Image" class="mb-4 img-fluid">
+                <h2 class="tm-text-primary mb-4">Name</h2>
+                <h3 class="tm-text-secondary h5 mb-4">Position</h3>
                 <p class="mb-4">
-                    Nunc convallis facilisis congue. Curabitur gravida rutrum justo sed pulvinar. Pellentesque ac ante in erat bibendum dignissim.
+                   (details here!)
                 </p>
                 <ul class="tm-social pl-0 mb-0">
                     <li><a href="https://facebook.com"><i class="fab fa-facebook"></i></a></li>
@@ -106,8 +106,10 @@
         <div class="container-fluid tm-container-small">
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-12 px-5 mb-5">
-                    <h3 class="tm-text-primary mb-4 tm-footer-title">About Catalog-Z</h3>
-                    <p>Catalog-Z is free Bootstrap 5 Alpha 2 HTML Template for video and photo websites. You can freely use this TemplateMo layout for a front-end integration with any kind of CMS website.</p>
+                    <h3 class="tm-text-primary mb-4 tm-footer-title">About Imahe Marinduke</h3>
+                    <p>Imahe Marinduke is a free website that you can browse that the purpose is to represent different
+                    places in Marinduque Province that has their own beauty. Imahe Marinduke is a gallery that may help you to find places in Marinduque Province, yes it was just an image but every single photo in this website has a details 
+                    where attached the location of the image that has been captured.</p>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12 px-5 mb-5">
                     <h3 class="tm-text-primary mb-4 tm-footer-title">Our Links</h3>
@@ -131,10 +133,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-md-7 col-12 px-5 mb-3">
-                    Copyright 2020 Catalog-Z Company. All rights reserved.
+                    Copyright 2022 Imahe Marinduke. All rights reserved.
                 </div>
                 <div class="col-lg-4 col-md-5 col-12 px-5 text-right">
-                    Designed by <a href="https://templatemo.com" class="tm-text-gray" rel="sponsored" target="_parent">TemplateMo</a>
+                    Designed by <a href="https://templatemo.com" class="tm-text-gray" rel="sponsored" target="_parent">Imahe Marinduke Organization</a>
                 </div>
             </div>
         </div>
