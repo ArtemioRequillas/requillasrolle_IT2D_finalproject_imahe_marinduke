@@ -202,9 +202,12 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-12 px-5 mb-5">
                     <h3 class="tm-text-primary mb-4 tm-footer-title">About Imahe Marinduke</h3>
-                    <p>Imahe Marinduke is a free website that you can browse that the purpose is to represent different
+                    <?php 
+                    echo "<p>Imahe Marinduke is a free website that you can browse that the purpose is to represent different
                     places in Marinduque Province that has their own beauty. Imahe Marinduke is a gallery that may help you to find places in Marinduque Province, yes it was just an image but every single photo in this website has a details 
-                    where attached the location of the image that has been captured.</p>
+                    where attached the location of the image that has been captured.</p>";
+                    ?>
+
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12 px-5 mb-5">
                     <h3 class="tm-text-primary mb-4 tm-footer-title">Our Links</h3>
